@@ -3,18 +3,19 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>abc8865235@gmail.com</code>  
+<code>dch225739@stu.xjtu.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**XIDIAN University**, Bachelor of Artificial Intelligence (AI) (2019 – 2023)
+• GPA: 3.8/4  (top 5%)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Xi'an Jiaotong University**, Master of Computer Science and Technology (CST) (2023 - 2026)
+• Non-examination-based Graduate Admission  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Vision-Language Model Fine-Tuning and Transfer, Large Language Model Fine-Tuning, Incremental Learning.
+
+#### Service
+Reviewer: CVPR, ICCV
