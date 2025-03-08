@@ -1,3 +1,3 @@
 
 - Undergraduate Second-Class Scholarship, XIDIAN University, 2022. 
-- FGraduate Freshman First-Class Scholarship, Xi'an Jiaotong University, 2023. 
+- Graduate Freshman First-Class Scholarship, Xi'an Jiaotong University, 2023. 
